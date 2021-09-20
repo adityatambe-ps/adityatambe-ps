@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityatambe-ps
-- 👀 I’m interested in React, Typescript, Javascript, Styled Components, Tailwindcss
-- 🌱 I’m currently learning Typescript, NextJS, Electron
+- 👀 I’m interested in React, Typescript, Javascript, Styled Components, Tailwindcss and many more
+- 🌱 I’m currently learning Typescript, NextJS, ElectronJS
 - 📫 How to reach me - aditya@postud.io
 
 <!---
