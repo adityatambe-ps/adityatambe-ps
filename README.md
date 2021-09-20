@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @adityatambe-ps
+- 👀 I’m interested in React, Typescript, Javascript, Styled Components, Tailwindcss
+- 🌱 I’m currently learning Typescript, NextJS, Electron
+- 📫 How to reach me - aditya@postud.io
+
+<!---
+adityatambe-ps/adityatambe-ps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
