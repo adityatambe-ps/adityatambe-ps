@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityatambe-ps
-- 👀 I’m interested in Front-End Technologies like ReactJS, Typescript, Javascript, Styled Components, Tailwindcss and many more
+- 👀 I’m interested in Front-End Technologies like ReactJS, Typescript, NextJS, Javascript, Styled Components, TailwindCss and many more
 - 🌱 I’m currently learning Typescript, NextJS, ElectronJS
 - 📫 How to reach me - aditya@postud.io
 
