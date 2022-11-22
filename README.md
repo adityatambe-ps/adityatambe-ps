@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityatambe-ps
 - 👀 I’m interested in Front-End Technologies like ReactJS, Typescript, NextJS, Javascript, Styled Components, TailwindCss and many more
 - 🌱 I’m currently learning Typescript, NextJS, ElectronJS
-- 📫 How to reach me - aditya@postud.io
+<!-- - 📫 How to reach me - aditya@postud.io -->
 
 <!---
 adityatambe-ps/adityatambe-ps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
